@@ -1,0 +1,5 @@
+{
+  "name": "Taiwanese Snack Shop Ordering Systemqr",
+  "description": "An online ordering system for a Taiwanese snack shop, allowing users to select items, customize their order, and submit it for pickup. Built with React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
