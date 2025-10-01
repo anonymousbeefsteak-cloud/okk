@@ -1,6 +1,6 @@
 import { MenuItem } from './types';
 
-export const WEB_APP_URL = 'https://script.google.com/macros/s/AKfycbyC5qwtwdPfuZI4HhTL7c3F_Mp_AWPYaGWBWTHRhOWTmRYh7eJhOGje7sYNxjpj0MmV/exec';
+export const WEB_APP_URL = 'https://script.google.com/macros/s/AKfycbz4dNo4MAW0e9Y_2BHf6O440obiX0OUxSxjcdVAhAvdVYsi6s0Sg_sN4eMybvKX_Y0G/exec';
 
 // --- SHOP CONFIGURATION ---
 export const SHOP_LINE_ID = '@142fvczd'; 
